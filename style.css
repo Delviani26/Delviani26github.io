@@ -1,0 +1,52 @@
+body {
+    min-height: 500px;
+}
+
+/* Navbar */
+.navbar .container {
+    padding: 10px 0;
+    font-size: 18px;
+}
+
+li {
+    font-weight: 500;
+}
+
+.navbar .container .navbar-brand {
+    font-size: 30px;
+    font-family:'Playfair Display', serif;
+}
+
+/* Jumbotron */
+.jumbotron {
+    padding-top: 15rem;
+   
+}
+
+.jumbotron img {
+    transform: scale(1.1);
+    transition: 0,5s;
+}
+h1 {
+    font-family:'Playfair Display', serif;
+    margin-top: 25px;
+}
+
+hr {
+    width: 600px;
+    border-top: 2px solid black;
+    margin: auto;
+}
+
+.jumbotron p {
+    font-weight: 500;
+    color: rgba(red, green, blue, alpha);
+}
+
+.lead {
+    margin-top: 20px;
+}
+
+section {
+    padding-top: 8rem;
+}
